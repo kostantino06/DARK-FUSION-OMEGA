@@ -28,3 +28,14 @@ git clone https://github.com/yourusername/dark-fusion-omega.git
 cd dark-fusion-omega
 chmod +x install.sh
 sudo ./install.sh
+
+
+
+
+
+
+
+
+
+
+the password is paid
